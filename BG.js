@@ -17,7 +17,6 @@ function getRand(min, max){
 
     obstacle.src = "obs.png";
     background.src = "bg.png";
-    // https://www.alamy.com/stock-photo-seamless-cartoon-city-background-vector-illustration-with-separate-141766248.html
 
     var BGx = 0;
     var BGy = 0;
